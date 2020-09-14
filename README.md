@@ -2,7 +2,7 @@
 
 ## Introduction
 
-LendingClub used FICO scores to assess the credit creditworthiness of its clients like many other lenders. According to the online article [LendingClub: FICO's New Model Won't Help](https://www.pymnts.com/consumer-finance/2020/lendingclub-president-fico-model-wont-save-credit-scoring-dinosaur/) - << the president of LendingClub, said that traditional credit scoring — such as through the FICO credit score — misrepresents creditworthiness of individuals >>.
+LendingClub uses FICO scores to assess the credit creditworthiness of its clients like many other lenders. According to the online article [LendingClub: FICO's New Model Won't Help](https://www.pymnts.com/consumer-finance/2020/lendingclub-president-fico-model-wont-save-credit-scoring-dinosaur/) - << the president of LendingClub, said that traditional credit scoring — such as through the FICO credit score — misrepresents creditworthiness of individuals >>.
 
 LendingClub is a leading lender in the USA. It publishes quarterly loan data online and thus offers its audience the possibility to evaluate the loans. The current work will show that FICO scores indeed misrepresent creditworthiness of individuals as a lot of loans with good FICO scores get into trouble. Most importanly, this work uses Data Science techniques to develop a substancial improvement in credit scoring of LendingClub loans.  
 
