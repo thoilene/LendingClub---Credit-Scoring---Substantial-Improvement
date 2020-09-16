@@ -18,7 +18,7 @@ Here are some ML metrics which will be helpfull in this context:
 
 **recall = TP/(TP+FN)**
 
-**F1 = 2.0 x accuracy x recall/(accuracy + recall)**
+**F1 = 2.0 x precision x recall/(precision + recall)**
 
 **ROC-Curve: measure of truthfulness and reliability of the model**
 
